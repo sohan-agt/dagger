@@ -54,15 +54,13 @@
   </properties>
 
   <scm>
-    <url>http://github.com/square/dagger/</url>
-    <connection>scm:git:git://github.com/square/dagger.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/square/dagger.git</developerConnection>
-    <tag>HEAD</tag>
+    <url>https://sohan-agt@github.com/sohan-agt/dagger.git</url>
+    <connection>scm:git:https://sohan-agt@github.com/sohan-agt/dagger.git</connection>
   </scm>
 
   <issueManagement>
     <system>GitHub Issues</system>
-    <url>http://github.com/square/dagger/issues</url>
+    <url>http://github.com/sohan-agt/dagger/issues</url>
   </issueManagement>
 
   <licenses>
